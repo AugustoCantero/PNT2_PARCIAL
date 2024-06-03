@@ -28,7 +28,7 @@
     </div>
   </div>
 
-  <p>respuestas: 1:C 2:C 3:A </p>
+  <p>respuestas: - 1:C y creo que la d pero siempre uso la c. - 2:C - 3:A </p>
 </template>
 
 <script>
